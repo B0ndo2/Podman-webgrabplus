@@ -26,6 +26,7 @@ RUN \
 	libmono-system-data4.0-cil \
 	libmono-system-net-http-webrequest4.0-cil \
 	libmono-system-web4.0-cil \
+	libmono-system-xml-linq4.0-cil \
 	mono-runtime \
 	unzip && \
  echo "**** install webgrabplus ****" && \
